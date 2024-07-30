@@ -20,7 +20,7 @@ Node.js (>=14.x)
 npm or yarn
 
 Installation:
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/Amogo-solomon/todolistapp.git
 cd todo-list-app
 
 Install Dependencis
